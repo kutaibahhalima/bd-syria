@@ -6,7 +6,7 @@ export default async function ContactPage() {
   const t = await getTranslations();
 
   return (
-    <div className="min-h-screen pt-12">
+    <div className="min-h-screen">
       {/* Hero Section */}
       <section className="bg-gradient-to-br from-red-50 to-blue-50 py-16 px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto text-center">
