@@ -1,0 +1,487 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Our Services",
+    "activities": "Our Activities",
+    "contact": "Contact Us",
+    "companyEstablishment": "Company Establishment Services",
+    "financialConsulting": "Financial & Advisory Services",
+    "administrative": "Administrative Services",
+    "legal": "Legal Services",
+    "engineering": "Engineering Services",
+    "marketing": "Marketing & Advertising Services",
+    "training": "Training & Capacity Building Services",
+    "it": "Information Technology Services",
+    "importExport": "Import & Export Services"
+  },
+  "common": {
+    "readMore": "Read More",
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us",
+    "getQuote": "Get Quote",
+    "freeConsultation": "Free Consultation",
+    "viewAllServices": "View All Services",
+    "bookConsultation": "Book Free Consultation",
+    "moreDetails": "More Details",
+    "exploreServices": "Explore Our Services",
+    "callNow": "Call Now",
+    "sendMessage": "Send Message",
+    "switchLanguage": "التبديل إلى العربية"
+  },
+  "home": {
+    "companyName": "Business Development SY",
+    "companyNameEn": "شركة تطوير الأعمال سوريا",
+    "heroTitle": "Your Partner in Success and Business Development",
+    "heroDescription": "We provide comprehensive services in business development, legal establishment, financial consulting, and administrative services to help your company grow and prosper in the Syrian market",
+    "aboutTitle": "About Us",
+    "aboutCompanyTitle": "About the Company",
+    "aboutDescription": "The company was founded with the emergence of new Syria, as an alliance of Syrian expertise for comprehensive development. The company operates through an integrated team in various specializations necessary for business",
+    "servicesTitle": "Our Services",
+    "servicesDescription": "We offer a comprehensive range of specialized services to develop and grow your business",
+    "ctaTitle": "Ready to Develop Your Business?",
+    "ctaDescription": "Contact us today and get a free consultation to identify your needs",
+    "features": {
+      "innovative": "Innovative and integrated solutions",
+      "standards": "International standards in business development"
+    },
+    "services": {
+      "companyEstablishment": "Company Establishment Services",
+      "companyEstablishmentDesc": "Legal, governmental, and basic legal establishment services and post-establishment support",
+      "financial": "Financial Consulting",
+      "financialDesc": "Comprehensive accounting services and financial consulting",
+      "administrative": "Administrative Services",
+      "administrativeDesc": "Integrated administrative services to support operational processes",
+      "legal": "Legal Services",
+      "legalDesc": "Comprehensive legal consultation and specialized legal services"
+    }
+  },
+  "companyEstablishment": {
+    "heroDescription": "Legal, governmental, and basic legal establishment services and post-establishment support to ensure a strong and safe start for your business in the Syrian market",
+    "servicesTitle": "Our Company Establishment Services",
+    "processTitle": "Establishment Process",
+    "processDescription": "Clear and organized steps to establish your company",
+    "benefitsTitle": "Why Choose Our Services?",
+    "expertiseTitle": "Specialized Expertise",
+    "expertiseDescription": "Our team of legal and administrative experts ensures your company is established according to the highest professional and legal standards",
+    "ctaTitle": "Start Your Company Establishment Journey Today",
+    "ctaDescription": "Get a free consultation from our experts to determine the best legal structure for your business",
+    "stats": {
+      "companiesFormed": "companies successfully established",
+      "averageTime": "days average establishment time",
+      "successRate": "registration success rate"
+    },
+    "services": {
+      "legalFormation": "Legal Formation & Registration",
+      "legalFormationDesc": "Complete legal formation of your business entity with proper registration and documentation",
+      "licensing": "Government Licensing",
+      "licensingDesc": "Obtain all necessary government licenses and permits for your business operations",
+      "structure": "Corporate Structure Setup",
+      "structureDesc": "Design and implement optimal corporate structure for your business goals",
+      "management": "Board & Management Setup",
+      "managementDesc": "Establish board of directors and management structure according to regulations"
+    },
+    "process": {
+      "consultation": "Initial Consultation",
+      "consultationDesc": "Understand your business goals and requirements",
+      "documentation": "Documentation Preparation",
+      "documentationDesc": "Prepare all necessary legal documents and forms",
+      "registration": "Registration Process",
+      "registrationDesc": "Submit applications and handle registration procedures",
+      "licensing": "License Acquisition",
+      "licensingDesc": "Obtain all required licenses and permits",
+      "support": "Post-Formation Support",
+      "supportDesc": "Ongoing support for compliance and operations"
+    },
+    "benefits": {
+      "compliance": "Legal compliance and protection",
+      "speed": "Faster registration process",
+      "guidance": "Expert guidance throughout",
+      "support": "Post-formation ongoing support",
+      "cost": "Cost-effective solutions",
+      "assurance": "Regulatory compliance assurance"
+    }
+  },
+  "financialConsulting": {
+    "heroDescription": "Comprehensive accounting services and financial consulting to ensure sustainable financial growth and compliance with financial and tax regulations",
+    "servicesTitle": "Our Financial & Advisory Services",
+    "processTitle": "Work Process",
+    "processDescription": "Organized methodology to provide the best financial services",
+    "benefitsTitle": "Benefits of Our Financial Services",
+    "statsTitle": "Our Numbers Speak",
+    "ctaTitle": "Unlock Your Company's Financial Potential",
+    "ctaDescription": "Get a free financial consultation to improve your company's financial performance and achieve your goals",
+    "stats": {
+      "taxSavings": "average tax savings",
+      "activeClients": "active clients",
+      "reportsCompleted": "financial reports completed",
+      "compliance": "regulatory compliance"
+    },
+    "services": {
+      "accounting": "Accounting Services",
+      "accountingDesc": "Complete bookkeeping, financial statements, and accounting system setup",
+      "advisory": "Financial Advisory",
+      "advisoryDesc": "Strategic financial planning, investment advice, and business growth strategies",
+      "tax": "Tax Services",
+      "taxDesc": "Tax preparation, compliance, planning, and representation",
+      "analysis": "Financial Analysis",
+      "analysisDesc": "Performance analysis, budgeting, forecasting, and financial reporting",
+      "risk": "Risk Management",
+      "riskDesc": "Financial risk assessment and mitigation strategies",
+      "cost": "Cost Management",
+      "costDesc": "Cost optimization, expense management, and profitability analysis"
+    },
+    "benefits": {
+      "cashFlow": "Improved Cash Flow",
+      "cashFlowDesc": "Better financial planning and cash flow management",
+      "taxOptimization": "Tax Optimization",
+      "taxOptimizationDesc": "Minimize tax liability through proper planning",
+      "insights": "Strategic Insights",
+      "insightsDesc": "Data-driven insights for better decision making",
+      "compliance": "Compliance Assurance",
+      "complianceDesc": "Stay compliant with all financial regulations"
+    },
+    "process": {
+      "assessment": "Financial Assessment",
+      "assessmentDesc": "Comprehensive review of current financial situation",
+      "strategy": "Strategy Development",
+      "strategyDesc": "Create customized financial strategy and plan",
+      "implementation": "Implementation",
+      "implementationDesc": "Execute financial systems and processes",
+      "monitoring": "Monitoring & Reporting",
+      "monitoringDesc": "Ongoing monitoring and regular reporting"
+    }
+  },
+  "legal": {
+    "heroDescription": "Comprehensive and specialized legal services to protect your company's interests and ensure complete legal compliance in the Syrian business environment",
+    "servicesTitle": "Our Legal Services",
+    "practiceAreasTitle": "Practice Areas",
+    "practiceAreasDescription": "Deep expertise in various legal fields",
+    "benefitsTitle": "Why Do You Need Our Legal Services?",
+    "protectionTitle": "Comprehensive Legal Protection",
+    "protectionDescription": "We understand the complexities of Syrian law and provide comprehensive legal protection for all aspects of your business",
+    "ctaTitle": "Protect Your Company with Our Legal Services",
+    "ctaDescription": "Get a free legal consultation to understand your needs and provide appropriate legal protection",
+    "stats": {
+      "successRate": "case success rate",
+      "contractsDrafted": "contracts drafted",
+      "compliance": "legal compliance",
+      "experience": "years of experience"
+    },
+    "services": {
+      "consultation": "Legal Consultation",
+      "consultationDesc": "Expert legal advice for business operations and compliance",
+      "contracts": "Contract Drafting",
+      "contractsDesc": "Professional drafting and review of all business contracts",
+      "compliance": "Legal Compliance",
+      "complianceDesc": "Ensure full compliance with Syrian and international laws",
+      "representation": "Legal Representation",
+      "representationDesc": "Professional representation in courts and legal proceedings",
+      "corporate": "Corporate Law",
+      "corporateDesc": "Specialized advice on corporate governance and structure",
+      "employment": "Employment Law",
+      "employmentDesc": "Employment contracts, policies, and workplace compliance"
+    },
+    "practiceAreas": {
+      "commercial": "Commercial Law",
+      "employment": "Employment Law",
+      "regulatory": "Regulatory Compliance"
+    },
+    "benefits": {
+      "protection": "Risk mitigation and legal protection",
+      "guidance": "Expert guidance on complex legal matters",
+      "compliance": "Proactive compliance management",
+      "cost": "Cost-effective legal solutions",
+      "representation": "Professional representation when needed",
+      "peace": "Peace of mind for business operations"
+    }
+  },
+  "administrative": {
+    "heroDescription": "Integrated administrative services to develop organizational structure, improve processes, and manage human resources for optimal efficiency",
+    "servicesTitle": "Our Administrative Services",
+    "solutionsTitle": "Our Integrated Solutions",
+    "solutionsDescription": "We provide comprehensive solutions for administrative performance development",
+    "benefitsTitle": "Benefits of Our Administrative Services",
+    "developmentTitle": "Continuous Development",
+    "developmentDescription": "We work with you to develop effective administrative systems that keep pace with your company's growth and achieve your strategic goals",
+    "ctaTitle": "Develop Your Administrative Systems Today",
+    "ctaDescription": "Consult our experts to develop effective administrative systems that achieve your goals and improve your team's performance",
+    "stats": {
+      "employeesTrained": "employees trained",
+      "systemsDeveloped": "administrative systems developed",
+      "productivityImprovement": "productivity improvement",
+      "timeSavings": "time savings"
+    },
+    "services": {
+      "hr": "Human Resources Management",
+      "hrDesc": "Complete HR solutions including recruitment, training, and employee management",
+      "organizational": "Organizational Development",
+      "organizationalDesc": "Structure optimization, process improvement, and organizational effectiveness",
+      "policies": "Policy & Procedures",
+      "policiesDesc": "Development of comprehensive policies, procedures, and operational guidelines",
+      "operations": "Operations Management",
+      "operationsDesc": "Streamline business operations for efficiency and productivity",
+      "performance": "Performance Management",
+      "performanceDesc": "Performance evaluation systems and improvement strategies",
+      "strategic": "Strategic Planning",
+      "strategicDesc": "Long-term strategic planning and goal setting for organizational success"
+    },
+    "solutions": {
+      "hr": "HR Solutions",
+      "excellence": "Operational Excellence",
+      "design": "Organizational Design"
+    },
+    "benefits": {
+      "efficiency": "Improved operational efficiency",
+      "satisfaction": "Enhanced employee satisfaction",
+      "processes": "Streamlined business processes",
+      "alignment": "Better organizational alignment",
+      "costs": "Reduced operational costs",
+      "productivity": "Increased productivity and performance"
+    }
+  },
+  "marketing": {
+    "heroDescription": "Innovative and integrated marketing strategies to enhance your brand presence and increase sales in digital and traditional markets",
+    "servicesTitle": "Our Marketing Services",
+    "channelsTitle": "Marketing Channels",
+    "channelsDescription": "We reach your audience through all effective channels",
+    "benefitsTitle": "Benefits of Our Marketing Services",
+    "targetingTitle": "Targeted Marketing",
+    "targetingDescription": "We use the latest technologies and strategies to reach your target audience with the right message at the right time",
+    "ctaTitle": "Take Your Brand to the Next Level",
+    "ctaDescription": "Get a free marketing consultation to develop a comprehensive strategy that achieves your business goals",
+    "stats": {
+      "salesIncrease": "average sales increase",
+      "impressions": "monthly impressions",
+      "satisfaction": "customer satisfaction rate",
+      "roi": "return on investment"
+    },
+    "services": {
+      "digital": "Digital Marketing",
+      "digitalDesc": "Comprehensive digital marketing strategies across all online platforms",
+      "brand": "Brand Development",
+      "brandDesc": "Create and strengthen your brand identity and market positioning",
+      "social": "Social Media Marketing",
+      "socialDesc": "Strategic social media presence and engagement campaigns",
+      "analytics": "Marketing Analytics",
+      "analyticsDesc": "Data-driven insights and performance measurement for marketing campaigns",
+      "content": "Content Marketing",
+      "contentDesc": "Engaging content creation and strategic content distribution",
+      "mobile": "Mobile Marketing",
+      "mobileDesc": "Mobile-first marketing strategies and app promotion"
+    },
+    "channels": {
+      "search": "Search Engine Marketing",
+      "searchDesc": "SEO, SEM, and Google Ads management",
+      "socialAds": "Social Media Advertising",
+      "socialAdsDesc": "Facebook, Instagram, LinkedIn, and TikTok advertising",
+      "email": "Email Marketing",
+      "emailDesc": "Newsletter campaigns and automated email sequences",
+      "influencer": "Influencer Marketing",
+      "influencerDesc": "Partnership with relevant influencers and content creators"
+    },
+    "benefits": {
+      "awareness": "Increased brand awareness and visibility",
+      "leads": "Higher quality leads and conversions",
+      "roi": "Better ROI on marketing investment",
+      "engagement": "Stronger customer engagement",
+      "positioning": "Improved market positioning",
+      "decisions": "Data-driven marketing decisions"
+    }
+  },
+  "engineering": {
+    "heroDescription": "Comprehensive engineering solutions and professional design services to achieve your projects with the highest standards of quality and safety",
+    "servicesTitle": "Our Engineering Services",
+    "ctaTitle": "Start Your Engineering Project with Us",
+    "ctaDescription": "Get a free engineering consultation to determine the best solutions for your project",
+    "services": {
+      "civil": "Civil Engineering",
+      "civilDesc": "Structural design, construction management, and infrastructure development",
+      "electrical": "Electrical Engineering",
+      "electricalDesc": "Electrical systems design, power distribution, and automation solutions",
+      "mechanical": "Mechanical Engineering",
+      "mechanicalDesc": "HVAC systems, industrial equipment design, and maintenance solutions",
+      "industrial": "Industrial Engineering",
+      "industrialDesc": "Process optimization, production planning, and quality control systems"
+    }
+  },
+  "training": {
+    "heroDescription": "Specialized training programs and professional workshops to develop the skills and capabilities of your team",
+    "servicesTitle": "Our Training Programs",
+    "ctaTitle": "Develop Your Team's Skills Today",
+    "ctaDescription": "Get a free consultation to determine the appropriate training needs for your team",
+    "services": {
+      "professional": "Professional Development",
+      "professionalDesc": "Comprehensive training programs for professional skill development",
+      "leadership": "Leadership Training",
+      "leadershipDesc": "Leadership skills and management training for executives",
+      "technical": "Technical Training",
+      "technicalDesc": "Specialized technical training in various industry sectors",
+      "certification": "Certification Programs",
+      "certificationDesc": "Professional certification programs recognized internationally"
+    }
+  },
+  "it": {
+    "heroDescription": "Advanced technical solutions and information technology services to modernize your business and keep pace with digital development",
+    "servicesTitle": "Our Technical Services",
+    "ctaTitle": "Enter the Digital Age with Our Technical Solutions",
+    "ctaDescription": "Get a free technical consultation to determine the best technological solutions for your business",
+    "services": {
+      "software": "Software Development",
+      "softwareDesc": "Custom software solutions and application development",
+      "cybersecurity": "Cybersecurity",
+      "cybersecurityDesc": "Comprehensive security solutions and threat protection",
+      "cloud": "Cloud Services",
+      "cloudDesc": "Cloud migration, hosting, and infrastructure management",
+      "data": "Data Management",
+      "dataDesc": "Database design, data analytics, and business intelligence"
+    }
+  },
+  "importExport": {
+    "heroDescription": "Comprehensive foreign trade, import and export services to expand your business globally",
+    "servicesTitle": "Foreign Trade Services",
+    "ctaTitle": "Expand Your Business Globally",
+    "ctaDescription": "Get a free consultation to develop the appropriate foreign trade strategy for your business",
+    "services": {
+      "import": "Import Services",
+      "importDesc": "Complete import facilitation and customs clearance services",
+      "export": "Export Services",
+      "exportDesc": "Export documentation, logistics, and market entry support",
+      "customs": "Customs Clearance",
+      "customsDesc": "Professional customs documentation and clearance procedures",
+      "logistics": "Logistics Solutions",
+      "logisticsDesc": "Comprehensive logistics and supply chain management"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "heroTitle": "Your Strategic Partner in Business Development",
+    "heroDescription": "A leading company in providing integrated solutions for business development and consulting in the Syrian market",
+    "missionTitle": "Our Mission",
+    "visionTitle": "Our Vision",
+    "valuesTitle": "Our Values",
+    "teamTitle": "Our Team",
+    "companyDescription": "The company was founded with the emergence of new Syria, as an alliance of Syrian expertise for comprehensive development. The company operates through an integrated team in various specializations necessary for business",
+    "mission": "To provide integrated and innovative solutions in business development to help companies grow and prosper",
+    "vision": "To be the first and most trusted partner in business development in Syria and the region",
+    "values": "Integrity, transparency, excellence, innovation, and commitment to the highest quality standards"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "heroTitle": "Get in Touch",
+    "heroDescription": "We are here to help you develop your business. Contact us today and start your journey to success",
+    "contactInfo": "Contact Information",
+    "addressDetails": "Damascus, Syria - Dimar Commercial Complex",
+    "getInTouch": "Get in Touch",
+    "followUs": "Follow Us"
+  },
+  "activities": {
+    "title": "Our Activities and Achievements",
+    "description": "Follow our latest activities and achievements in business development and consulting",
+    "statsTitle": "Our Achievements",
+    "statsDescription": "Numbers that reflect our excellence in service",
+    "latestTitle": "Our Latest Activities",
+    "latestDescription": "A collection of the latest activities and events we participated in",
+    "ctaTitle": "Join Our Upcoming Events",
+    "ctaDescription": "Be part of the development and growth journey with us",
+    "stats": {
+      "clients": "Our Clients",
+      "clientsDesc": "satisfied clients with our services",
+      "projects": "Our Projects",
+      "projectsDesc": "successful projects completed",
+      "experience": "Our Experience",
+      "experienceDesc": "years of accumulated experience",
+      "events": "Our Events",
+      "eventsDesc": "events and workshops"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "description": "We provide comprehensive and specialized services to help your business grow and develop in the Syrian market",
+    "ctaTitle": "Ready to Get Started?",
+    "ctaDescription": "Contact us today to discuss how we can help your business achieve its goals",
+    "servicesOffered": {
+      "companyEstablishment": {
+        "description": "Legal, governmental, and regulatory establishment services and post-establishment support",
+        "features": [
+          "Legal establishment",
+          "Government licenses",
+          "Legal services",
+          "Post-establishment services"
+        ]
+      },
+      "financialConsulting": {
+        "description": "Accounting services, financial consulting, and tax services",
+        "features": [
+          "Accounting services",
+          "Financial consulting",
+          "Tax services",
+          "Financial auditing"
+        ]
+      },
+      "administrative": {
+        "description": "Integrated administrative services to support business operations",
+        "features": [
+          "Human resources management",
+          "Administrative systems",
+          "Organizational development",
+          "Operations management"
+        ]
+      },
+      "legal": {
+        "description": "Comprehensive legal consulting and specialized legal services",
+        "features": [
+          "Legal consulting",
+          "Contract drafting",
+          "Legal representation",
+          "Legal compliance"
+        ]
+      },
+      "engineering": {
+        "description": "Integrated engineering solutions for projects and development",
+        "features": [
+          "Engineering design",
+          "Implementation supervision",
+          "Technical consulting",
+          "Project management"
+        ]
+      },
+      "marketing": {
+        "description": "Innovative marketing strategies and effective advertising campaigns",
+        "features": [
+          "Marketing strategies",
+          "Digital marketing",
+          "Brand management",
+          "Advertising campaigns"
+        ]
+      },
+      "training": {
+        "description": "Specialized training programs for skills and capacity development",
+        "features": [
+          "Specialized training",
+          "Skills development",
+          "Workshops",
+          "Leadership programs"
+        ]
+      },
+      "it": {
+        "description": "Advanced technical solutions and information technology services",
+        "features": [
+          "System development",
+          "Cybersecurity",
+          "Technical consulting",
+          "Technical support"
+        ]
+      },
+      "importExport": {
+        "description": "Foreign trade, import and export services",
+        "features": [
+          "Trade facilitation",
+          "Customs clearance",
+          "Logistics",
+          "Market research"
+        ]
+      }
+    }
+  }
+}
