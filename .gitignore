@@ -79,10 +79,10 @@ temp/
 *.sln
 *.sw?
 
-# Package manager lock files (keep only one)
+# Package manager lock files
+# We're using npm, so keep package-lock.json and ignore others
 pnpm-lock.yaml
-# package-lock.json (if using pnpm, uncomment above and comment this)
-# yarn.lock (if using npm, uncomment above)
+yarn.lock
 
 # Turbo
 .turbo
