@@ -65,8 +65,8 @@ export default function Navigation() {
               <Image
                 src="/logo.png"
                 alt="Business Development SY Logo"
-                width={32}
-                height={32}
+                width={100}
+                height={100}
                 className="h-16 w-16"
               />
               <div className="text-sm font-bold text-gray-900">
