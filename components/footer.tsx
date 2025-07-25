@@ -1,6 +1,7 @@
 import { Building, Mail, Phone, MapPin } from "lucide-react";
 import { getTranslations } from "next-intl/server";
 import { Link } from "@/src/navigation";
+import Image from "next/image";
 
 export default async function Footer() {
   const t = await getTranslations();
@@ -12,7 +13,13 @@ export default async function Footer() {
           {/* Company Info */}
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 rtl:space-x-reverse mb-4">
-              <Building className="h-8 w-8 text-blue-400" />
+              <Image
+                src="/logo.png"
+                alt="Business Development SY Logo"
+                width={100}
+                height={100}
+                className="h-16 w-16"
+              />
               <div>
                 <h3 className="text-lg font-bold">Business Development SY</h3>
                 <p className="text-sm text-gray-300">
