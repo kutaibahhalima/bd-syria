@@ -197,7 +197,7 @@ export default async function HomePage() {
             <Button
               variant="outline"
               size="lg"
-              className="text-lg px-8 py-3 border-white text-white hover:bg-white hover:text-brand-secondary"
+              className="text-lg px-8 py-3 bg-white text-brand-secondary hover:bg-gray-100"
               asChild
             >
               <Link href="mailto:info@businessdev-sy.com">

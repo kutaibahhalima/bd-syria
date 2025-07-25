@@ -1,7 +1,8 @@
 "use client";
 
 import * as React from "react";
-import { Menu, X, Building, Globe } from "lucide-react";
+import Image from "next/image";
+import { Menu, X, Globe } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import { useTranslations, useLocale } from "next-intl";
@@ -61,12 +62,16 @@ export default function Navigation() {
               href="/"
               className="flex items-center space-x-2 rtl:space-x-reverse"
             >
-              <Building className="h-8 w-8 text-primary" />
+              <Image
+                src="/logo.png"
+                alt="Business Development SY Logo"
+                width={32}
+                height={32}
+                className="h-16 w-16"
+              />
               <div className="text-lg font-bold text-gray-900">
-                <span className="block">Business Development SY</span>
-                <span className="text-xs text-gray-600 block">
-                  شركة تطوير الأعمال سوريا
-                </span>
+                <span className="block">Business Development Syria</span>
+                <span className=" block">شركة تطوير الأعمال سوريا</span>
               </div>
             </Link>
           </div>
