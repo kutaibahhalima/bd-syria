@@ -69,7 +69,7 @@ export default function Navigation() {
                 height={32}
                 className="h-16 w-16"
               />
-              <div className="text-lg font-bold text-gray-900">
+              <div className="text-sm font-bold text-gray-900">
                 <span className="block">Business Development Syria</span>
                 <span className=" block">شركة تطوير الأعمال سوريا</span>
               </div>
