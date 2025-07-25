@@ -43,7 +43,7 @@ export default function Navigation() {
         { name: t("navigation.importExport"), href: "/services/import-export" },
       ],
     },
-    { name: t("navigation.activities"), href: "/activities" },
+    // { name: t("navigation.activities"), href: "/activities" },
     { name: t("navigation.contact"), href: "/contact" },
   ];
 
